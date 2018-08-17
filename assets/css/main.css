@@ -2295,3 +2295,16 @@ input, select, textarea {
 			}
 
 		}
+		
+		#logo {
+			position:fixed;
+    top:10px; 
+    left:10px;
+    width90px;
+    height:55px;
+    overflow:hidden;
+}
+			
+			
+			
+			
